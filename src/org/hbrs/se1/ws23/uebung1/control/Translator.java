@@ -5,7 +5,7 @@ package org.hbrs.se1.ws23.uebung1.control;
  * und darf NICHT erweitert werden. Sichtbarkeiten der Methoden koennen
  * unter Umstaenden angepasst werden.
  *
- * @author saschaalda
+ * @author jkamin2s
  *
  */
 
